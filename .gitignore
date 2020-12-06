@@ -2,3 +2,5 @@
 /shelf/
 /workspace.xmli
 .idea
+.*
+!/.gitignore
